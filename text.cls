@@ -6,6 +6,6 @@ public class text {
         System.debug('The value of c is : '+c);
 
 
-        
+    
     }
 }
