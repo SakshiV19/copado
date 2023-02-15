@@ -4,7 +4,5 @@ public class text {
         int b = 2;
         int c = a + b;
         System.debug('The value of c is : '+c);
-        System.debug('The value of a is : '+a);
-        System.debug('The value of b is : '+b);
     }
 }
