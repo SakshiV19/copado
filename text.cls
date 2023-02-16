@@ -4,6 +4,5 @@ public class text {
         int b = 2;
         int c = a + b; 
         System.debug('The value of c is abc : '+c);
-        debug('hello');
     }
 }
