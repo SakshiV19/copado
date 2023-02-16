@@ -5,6 +5,5 @@ public class text {
         int c = a + b; 
         System.debug('The value of c is abc : '+c);
         debug('hello');
-        System.debug('bypass false');
     }
 }
